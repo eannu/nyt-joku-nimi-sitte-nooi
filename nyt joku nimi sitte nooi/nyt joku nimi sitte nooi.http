@@ -1,0 +1,6 @@
+@nyt_joku_nimi_sitte_nooi_HostAddress = http://localhost:5249
+
+GET {{nyt_joku_nimi_sitte_nooi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
